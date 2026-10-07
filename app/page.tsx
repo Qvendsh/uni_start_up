@@ -53,7 +53,7 @@ export default function Home() {
                 <p>Кошти заморожені в залишках, а наступну колекцію уже треба замовляти.</p>
                 <div className="mini-metric"><span>Оборотність категорії</span><strong className="negative">−31%</strong></div>
               </article>
-              <div className="comparison-arrow" aria-hidden="true"><span>→</span></div>
+              <div className="comparison-arrow" aria-hidden="true"><span><svg viewBox="0 0 24 24" fill="none"><path d="M5 12h14m-5-5 5 5-5 5"/></svg></span></div>
               <article className="comparison-card new-way">
                 <span className="card-kicker">З STOCKMIND</span>
                 <div className="signal-visual" aria-hidden="true">
